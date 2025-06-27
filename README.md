@@ -6,7 +6,7 @@ This is my solution to the QR code component challenge on Frontend Mentor. This 
 Overview
 
 Screenshot
-![screenshot](./ScreenShot/Screenshot%202025-06-27%20135507.png)
+![screenshot](/ScreenShot/Screenshot%202025-06-27%20135507.png)
 
 Links
 
