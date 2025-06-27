@@ -1,52 +1,52 @@
-Frontend Mentor - QR code component solution
+📱 Frontend Mentor - QR Code Component Solution
 
 This is my solution to the QR code component challenge on Frontend Mentor. This challenge helped me improve my frontend skills by building a clean and responsive card component.
 
 
 Overview
 
-Screenshot
+🖼️ Screenshot
 ![screenshot](/ScreenShot/Screenshot%202025-06-27%20135507.png)
 
-Links
+🔗 Links
 
-Solution URL: GitHub Repo
+🚀 Live Site: View Demo
 
-Live Site URL: Live Demo
+🛠️ GitHub Repo: View Code
 
-My process
+🧠 My Process
 
-Built with
+🛠️ Built With
 
-React (with Vite)
+⚛️ React (with Vite)
 
-Tailwind CSS
+🎨 Tailwind CSS
 
-What I learned
+✨ What I Learned
 
-While building this component, I practiced:
+While building this challenge, I practiced:
 
-Setting up a Vite + React + Tailwind CSS project from scratch.
+🔧 Setting up a Vite + React + Tailwind CSS project from scratch
 
-Centering elements using Tailwind's utility classes (flex, items-center, justify-center).
+🎯 Centering elements with Tailwind (flex, items-center, justify-center)
 
-Using responsive design techniques with Tailwind.
+🧼 Writing clean, pixel-perfect layout code
 
-Writing clean, minimal code for a pixel-perfect layout.
+🔁 Continued Development
 
-Continued development
+In future projects, I plan to:
 
-In the future, I plan to:
+🧱 Recreate more components with Tailwind to master utility-first styling
 
-Recreate more components using Tailwind to master utility-first styling.
+♿ Improve accessibility and semantic structure
 
-Practice more accessibility and semantic HTML structure.
+🎞️ Explore subtle animations using Tailwind and Framer Motion
 
-Explore animations with Tailwind and Framer Motion.
+📚 Useful Resources
 
-Useful resources
+📘 Tailwind CSS Docs – Great reference for all utility classes
 
-Tailwind CSS Documentation – Essential for learning utility classes.
+⚡ React + Vite + Tailwind Setup Guide – Helped me get started quickly
 
-React + Vite + Tailwind Setup Guide – Helped me quickly scaffold the project.
+
 
