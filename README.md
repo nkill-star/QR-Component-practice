@@ -12,7 +12,7 @@ Overview
 
 🚀 Live Site: View Demo
 
-🛠️ GitHub Repo: View Code
+🛠️ GitHub Repo: https://github.com/nkill-star/QR-Component-practice.git
 
 🧠 My Process
 
