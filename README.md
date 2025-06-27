@@ -10,7 +10,7 @@ Overview
 
 🔗 Links
 
-🚀 Live Site: qr-component-practice.vercel.app
+🚀 Live Site: https://qr-component-practice.vercel.app/
 
 🛠️ GitHub Repo: https://github.com/nkill-star/QR-Component-practice.git
 
